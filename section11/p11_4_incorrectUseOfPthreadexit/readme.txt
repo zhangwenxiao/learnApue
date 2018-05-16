@@ -1,0 +1,1 @@
+pthread_exit参数的不正确使用
