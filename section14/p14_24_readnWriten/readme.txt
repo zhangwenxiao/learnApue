@@ -1,0 +1,1 @@
+readn和writen函数
